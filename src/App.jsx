@@ -50,21 +50,21 @@ function App() {
           <li>
             <a
               className="App-link"
-              href="https://swr.vercel.app/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Learn SWR
-            </a>
-          </li>
-          <li>
-            <a
-              className="App-link"
               href="https://pokeapi.co/"
               target="_blank"
               rel="noopener noreferrer"
             >
               Learn Pok&#xE9;API
+            </a>
+          </li>
+          <li>
+            <a
+              className="App-link"
+              href="https://swr.vercel.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Learn SWR
             </a>
           </li>
         </ul>
